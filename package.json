@@ -7,11 +7,21 @@
   "exports": {
     ".": "./index.js"
   },
-  "files": ["fonts", "index.js", "README.md"],
-  "keywords": ["fonts", "textmode", "dithering", "pixel", "retro"],
+  "files": [
+    "fonts",
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "fonts",
+    "textmode",
+    "dithering",
+    "pixel",
+    "retro"
+  ],
   "license": "CC0-1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YuccaV2/textmode-fonts"
+    "url": "git+https://github.com/YuccaV2/textmode-fonts.git"
   }
 }
